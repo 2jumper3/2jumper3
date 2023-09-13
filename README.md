@@ -4,7 +4,7 @@ Welcome to my github profile. Due to the high workload of various projects, unfo
 
 [Project in work](https://testflight.apple.com/join/TEyHDONC)
 
-[Project in work too](https://alfabit.org/en/wallet)
+[Project realised from idea to the AppStore](https://apps.apple.com/ru/app/alfabit-wallet/id6447421524?l=en-GB)
 
 Both project got SwiftUI+Combine+MVVM
 
