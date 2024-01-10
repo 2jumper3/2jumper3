@@ -4,23 +4,15 @@ Welcome to my github profile. Due to the high workload of various projects, unfo
 
 [Project in work](https://testflight.apple.com/join/TEyHDONC)
 
+**This is an excellent web3 wallet for storing your assets. Currently, it is in active development and is supported by two developers:**
+
 [Project realised from idea to the AppStore](https://apps.apple.com/ru/app/alfabit-wallet/id6447421524?l=en-GB)
 
 Both project got SwiftUI+Combine+MVVM
 
 ## Previous experience: 
 
-Project will be refactored from this state:  
-<img width="511" alt="Screenshot 2021-10-10 at 16 06 18" src="https://user-images.githubusercontent.com/45697468/136697057-7e18ed9b-b52e-48b0-ad76-8a9ebdbef4ba.png"> 
-
-And this:
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/45697468/136697794-560de176-0d51-4886-a54f-4ac9d593bf4c.gif)
-
-
-To this: 
-
-<img width="274" alt="Screenshot 2021-10-10 at 16 12 39" src="https://user-images.githubusercontent.com/45697468/136697567-91928106-2f7b-4869-957d-61b835f46242.png">
+https://apps.apple.com/us/app/skylove-dating-and-chat/id1226440933
 
 
 ### My first project which I can share: 
